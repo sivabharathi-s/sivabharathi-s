@@ -5,7 +5,7 @@ Full Stack Developer
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yeswanth-s-aa500b280)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivabharathi-s-06bb882aa/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
